@@ -40,8 +40,15 @@ Here are some ideas to get you started:
 ## Udemy Courses
 |  Course | Repo  | Certificate |   
 |:------|:-----|:-----|
+| Fundamentals of Network Engineering | [repo]()  | [link]() |
+| Fundamentals of Backend Engineering | [repo]()  | [link]() |
+| Discovering Backend Bottlenecks: Unlocking Peak Performance | [repo]()  | [link]() |
+| Fundamentals of Database Engineering | [repo]()  | [link]() |
+| Introduction to NGINX | [repo]()  | [link]() |
+| Backend with Python | [repo]()  | [link]() |
 | OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link]() |
 | The Complete 2023 Web Development Bootcamp | [repo](https://github.com/tanmayi-dev/the-complete-2023-web-development-bootcamp)  | [link]() |
+
 
 <!---
 
