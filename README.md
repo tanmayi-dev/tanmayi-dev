@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Repositories
+
 |  Topic | Repo  |   
 |:------|:-----|
 | interview | [interview-practice-questions](https://github.com/tanmayi-dev/interview-practice-questions) |
-| owasp | [owasp-proactive-controls-2016](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) |
 | html, css  | [html-css-course](https://github.com/tanmayi-dev/html-css-course)  |
 | css | [css-learning](https://github.com/tanmayi-dev/css-learning)  |
 | js-questions | [js-mcq-questions](https://github.com/tanmayi-dev/javascript-questions) |
 | javascript | [javascript-fundamentals](https://github.com/tanmayi-dev/javascript-fundamentals) |
 | react | [react-fundamentals](https://github.com/tanmayi-dev/react-fundamentals) |
 | webdev | [fullstack-learning-resources](https://github.com/tanmayi-dev/fullstack-learning-resources) |
-| webdev | [the-complete-2023-webdev-bootcamp](https://github.com/tanmayi-dev/the-complete-2023-web-development-bootcamp)  |
 | ui | [ui-design-fundamentals](https://github.com/tanmayi-dev/ui-design-fundamentals) |
-| ui-ux | [ui-ux-learning-resources](https://github.com/tanmayi-dev/ui-ux-design-learning-resources)  |
 | ui-ux | [ui-ux-complete-course](https://github.com/tanmayi-dev/ui-ux-design-complete-course)  |
+| ui-ux | [ui-ux-learning-resources](https://github.com/tanmayi-dev/ui-ux-design-learning-resources)  |
 | quiz  | [quizzes](https://github.com/tanmayi-dev/quizzes) |
 | dsa-a2z  | [striver-a2z-sheet](https://github.com/tanmayi-dev/striver-a2z-dsa-course-sheet)  |
 | dsa, js | [dsa-javascript](https://github.com/tanmayi-dev/data-structures-and-algorithms-with-javascript) |
@@ -36,6 +36,12 @@ Here are some ideas to get you started:
 | dsa | [ds-track-hackerrank](https://github.com/tanmayi-dev/data-structures-track-hackerrank)  |
 | cp | [cp-programmers-handbook](https://github.com/tanmayi-dev/competitive-programmers-handbook) |
 | cp | [competitive-coding](https://github.com/tanmayi-dev/competitive-coding) |
+
+## Udemy Courses
+|  Course | Repo  | Certificate |   
+|:------:|:-----:|:-----:|
+| OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link]() |
+| The Complete 2023 Web Development Bootcamp | [repo](https://github.com/tanmayi-dev/the-complete-2023-web-development-bootcamp)  | [link]() |
 
 <!---
 
