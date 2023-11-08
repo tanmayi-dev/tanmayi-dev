@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## Udemy Courses
 |  Course | Repo  | Certificate |   
-|:------:|:-----:|:-----:|
+|:------|:-----|:-----|
 | OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link]() |
 | The Complete 2023 Web Development Bootcamp | [repo](https://github.com/tanmayi-dev/the-complete-2023-web-development-bootcamp)  | [link]() |
 
