@@ -47,8 +47,15 @@ Here are some ideas to get you started:
 | Introduction to NGINX | [repo]()  | [link]() |
 | Backend with Python | [repo]()  | [link]() |
 | OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link]() |
-| The Complete 2023 Web Development Bootcamp | [repo](https://github.com/tanmayi-dev/the-complete-2023-web-development-bootcamp)  | [link]() |
 
+## Other Courses
+
+|  Course | Repo  |
+|:------|:-----|
+| CSS Classes by Vikram Santhalia | [repo](https://github.com/tanmayi-dev/css-learning)  | 
+| Full Stack Cohort | [repo](https://github.com/tanmayi-dev/full-stack-cohort)  | 
+| 100xDevs Cohort 2 Assignments | [repo](https://github.com/tanmayi-dev/100xdevs-cohort-2-assignments)  | 
+| 100xDevs Cohort 2 Solutions | [repo](https://github.com/tanmayi-dev/100xdevs-cohort-2-assignments)  | 
 
 <!---
 
