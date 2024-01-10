@@ -30,12 +30,18 @@ Here are some ideas to get you started:
 | ui-ux | [ui-ux-complete-course](https://github.com/tanmayi-dev/ui-ux-design-complete-course)  |
 | ui-ux | [ui-ux-learning-resources](https://github.com/tanmayi-dev/ui-ux-design-learning-resources)  |
 | quiz  | [quizzes](https://github.com/tanmayi-dev/quizzes) |
-| dsa-a2z  | [striver-a2z-sheet](https://github.com/tanmayi-dev/striver-a2z-dsa-course-sheet)  |
-| dsa, js | [dsa-javascript](https://github.com/tanmayi-dev/data-structures-and-algorithms-with-javascript) |
-| dsa | [leetcode-75](https://github.com/tanmayi-dev/leetcode-75) |
-| dsa | [ds-track-hackerrank](https://github.com/tanmayi-dev/data-structures-track-hackerrank)  |
-| cp | [cp-programmers-handbook](https://github.com/tanmayi-dev/competitive-programmers-handbook) |
-| cp | [competitive-coding](https://github.com/tanmayi-dev/competitive-coding) |
+
+
+## Data Structures and Algorithms
+
+|  Topic | Repo  |   
+|:------|:-----|
+| striver-a2z-sheet  | [repo](https://github.com/tanmayi-dev/striver-a2z-dsa-course-sheet)  |
+| O’Reilly-dsa-javascript | [repo](https://github.com/tanmayi-dev/data-structures-and-algorithms-with-javascript) |
+| leetcode-75 | [repo](https://github.com/tanmayi-dev/leetcode-75) |
+| ds-track-hackerrank | [repo](https://github.com/tanmayi-dev/data-structures-track-hackerrank)  |
+| cp-programmers-handbook | [repo](https://github.com/tanmayi-dev/competitive-programmers-handbook) |
+| competitive-coding | [repo](https://github.com/tanmayi-dev/competitive-coding) |
 
 ## Udemy Courses
 |  Course | Repo  | Certificate |   
