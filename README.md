@@ -54,6 +54,11 @@ Here are some ideas to get you started:
 | Backend with Python | [repo]()  | [link]() |
 | OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link]() |
 
+## Free Code Camp
+|  Course | Repo  | Certificate |   
+|:------|:-----|:-----|
+| JavaScript Algorithms and Data Structures | [repo]()  | [link]() |
+
 ## Other Courses
 
 |  Course | Repo  |
@@ -61,7 +66,6 @@ Here are some ideas to get you started:
 | CSS Classes by Vikram Santhalia | [repo](https://github.com/tanmayi-dev/css-learning)  | 
 | Full Stack Cohort | [repo](https://github.com/tanmayi-dev/full-stack-cohort)  | 
 | 100xDevs Cohort 2 Assignments | [repo](https://github.com/tanmayi-dev/100xdevs-cohort-2-assignments)  | 
-| 100xDevs Cohort 2 Solutions | [repo](https://github.com/tanmayi-dev/100xdevs-cohort-2-assignments)  | 
 
 <!---
 
