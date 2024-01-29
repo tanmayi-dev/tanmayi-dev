@@ -54,11 +54,13 @@ Here are some ideas to get you started:
 | Introduction to NGINX | [repo]()  | [link]() |
 | Backend with Python | [repo]()  | [link]() |
 | OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link]() |
+| Logo Design : Mastering the WordMark | [repo](https://github.com/tanmayi-dev/logo-design-mastering-the-wordmark) | [link]() |
 
 ## Free Code Camp
 |  Course | Repo  | Certificate |   
 |:------|:-----|:-----|
-| JavaScript Algorithms and Data Structures | [repo]()  | [link]() |
+| JavaScript Algorithms and Data Structures | [repo](https://github.com/tanmayi-dev/fcc-javascript-data-structures-and-algorithms)  | [link]() |
+| Frontend Development Libraries | [repo](https://github.com/tanmayi-dev/fcc-frontend-development-libraries) | [link]() |
 
 ## Other Courses
 
