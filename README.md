@@ -45,22 +45,22 @@ Here are some ideas to get you started:
 | python-dsa | [repo](https://github.com/tanmayi-dev/python-dsa.git) |
 
 ## Udemy Courses
-|  Course | Repo  | Certificate |   
-|:------|:-----|:-----|
-| Fundamentals of Network Engineering | [repo]()  | [link]() |
-| Fundamentals of Backend Engineering | [repo]()  | [link]() |
-| Discovering Backend Bottlenecks: Unlocking Peak Performance | [repo]()  | [link]() |
-| Fundamentals of Database Engineering | [repo]()  | [link]() |
-| Introduction to NGINX | [repo]()  | [link]() |
-| Backend with Python | [repo]()  | [link]() |
-| OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link]() |
-| Logo Design : Mastering the WordMark | [repo](https://github.com/tanmayi-dev/logo-design-mastering-the-wordmark) | [link]() |
+|  Course | Repo  | 
+|:------|:-----|
+| Fundamentals of Network Engineering | [repo]()  | 
+| Fundamentals of Backend Engineering | [repo]()  | 
+| Discovering Backend Bottlenecks: Unlocking Peak Performance | [repo]()  | 
+| Fundamentals of Database Engineering | [repo]()  | 
+| Introduction to NGINX | [repo]()  | 
+| Backend with Python | [repo]()  | 
+| OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | 
+| Logo Design : Mastering the WordMark | [repo](https://github.com/tanmayi-dev/logo-design-mastering-the-wordmark) | 
 
 ## Free Code Camp
-|  Course | Repo  | Certificate |   
-|:------|:-----|:-----|
-| JavaScript Algorithms and Data Structures | [repo](https://github.com/tanmayi-dev/fcc-javascript-data-structures-and-algorithms)  | [link]() |
-| Frontend Development Libraries | [repo](https://github.com/tanmayi-dev/fcc-frontend-development-libraries) | [link]() |
+|  Course | Repo  | 
+|:------|:-----|
+| JavaScript Algorithms and Data Structures | [repo](https://github.com/tanmayi-dev/fcc-javascript-data-structures-and-algorithms)  | 
+| Frontend Development Libraries | [repo](https://github.com/tanmayi-dev/fcc-frontend-development-libraries) | 
 
 ## Other Courses
 
