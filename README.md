@@ -47,13 +47,21 @@ Here are some ideas to get you started:
 ## Udemy Courses
 |  Course | Repo  | 
 |:------|:-----|
-| Fundamentals of Network Engineering | [repo]()  | 
-| Fundamentals of Backend Engineering | [repo]()  | 
-| Discovering Backend Bottlenecks: Unlocking Peak Performance | [repo]()  | 
-| Fundamentals of Database Engineering | [repo]()  | 
-| Introduction to NGINX | [repo]()  | 
-| Backend with Python | [repo]()  | 
+| Web Accessibility WCAG 2.1 | [repo](https://github.com/tanmayi-dev/web-accessibility-wcag-2.1) |
+| Clean Code | [repo](https://github.com/tanmayi-dev/clean-code) |
+| Design Patterns in JavaScript | [repo](https://github.com/tanmayi-dev/design-patterns-in-javascript) |
+| Introduction to NGINX | [repo](https://github.com/tanmayi-dev/introduction-to-ngnix)  | 
+| Fundamentals of Network Engineering | [repo](https://github.com/tanmayi-dev/fundamentals-of-network-engineering)  | 
+| Fundamentals of Backend Engineering | [repo](https://github.com/tanmayi-dev/fundamentals-of-backend-engineering)  | 
+| Fundamentals of Database Engineering | [repo](https://github.com/tanmayi-dev/fundamentals-of-database-engineering)  | 
+| Discovering Backend Bottlenecks: Unlocking Peak Performance | [repo](https://github.com/tanmayi-dev/discovering-backend-bottlenecks)  | 
+| Introduction to Cyber Security | [repo](https://github.com/tanmayi-dev/introduction-to-cyber-security) |
 | OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | 
+| Application Security - The Complete Guide | [repo](https://github.com/tanmayi-dev/application-security-the-complete-guide) |
+| Jenkins : Beginner to Pro | [repo](https://github.com/tanmayi-dev/jenkins) |
+| Kubernetes - For the Absolute Beginners | [repo](https://github.com/tanmayi-dev/kubernetes) |
+| Apache Kafka | [repo](https://github.com/tanmayi-dev/apache-kafka) |
+| Software Architecture & Design of Modern Large Scale Systems | [repo](https://github.com/tanmayi-dev/software-architecture-and-design-of-modern-large-scale-systems) |
 | Logo Design : Mastering the WordMark | [repo](https://github.com/tanmayi-dev/logo-design-mastering-the-wordmark) | 
 
 ## Free Code Camp
