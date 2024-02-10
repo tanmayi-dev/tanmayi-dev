@@ -15,6 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Repositories
+
+|  Topic | Repo  |   
+|:------|:-----|
+| interview practice questions | [repo](https://github.com/tanmayi-dev/interview-practice-questions) |
+| css learning | [repo](https://github.com/tanmayi-dev/css-learning)  |
+| frontend system design | [repo](https://github.com/tanmayi-dev/frontend-system-design) |
+| js mcq questions | [repo](https://github.com/tanmayi-dev/javascript-questions) |
+| javascript fundamentals | [repo](https://github.com/tanmayi-dev/javascript-fundamentals) |
+| react fundamentals | [repo](https://github.com/tanmayi-dev/react-fundamentals) |
+| fullstack resources | [repo](https://github.com/tanmayi-dev/fullstack-learning-resources) |
+| ui design fundamentals | [repo](https://github.com/tanmayi-dev/ui-design-fundamentals) |
+| ui-ux course | [repo](https://github.com/tanmayi-dev/ui-ux-design-complete-course)  |
+| ui-ux resources | [repo](https://github.com/tanmayi-dev/ui-ux-design-learning-resources)  |
+| quiz questions | [repo](https://github.com/tanmayi-dev/quizzes) |
+
 ## AWS Certifications
 
 |  Topic | Repo  |   Certificate |
@@ -53,6 +69,7 @@ Here are some ideas to get you started:
 | Apache Kafka | [repo](https://github.com/tanmayi-dev/apache-kafka) | |
 | Software Architecture & Design of Modern Large Scale Systems | [repo](https://github.com/tanmayi-dev/software-architecture-and-design-of-modern-large-scale-systems) | |
 | Logo Design : Mastering the WordMark | [repo](https://github.com/tanmayi-dev/logo-design-mastering-the-wordmark) | |
+| HTML CSS Course | [repo](https://github.com/tanmayi-dev/html-css-course) | |
 
 ## Free Code Camp
 |  Course | Repo  | Certificate |
@@ -60,21 +77,7 @@ Here are some ideas to get you started:
 | JavaScript Algorithms and Data Structures | [repo](https://github.com/tanmayi-dev/fcc-javascript-data-structures-and-algorithms)  |  | 
 | Frontend Development Libraries | [repo](https://github.com/tanmayi-dev/fcc-frontend-development-libraries) |  | 
 
-## Repositories
 
-|  Topic | Repo  |   
-|:------|:-----|
-| interview | [interview-practice-questions](https://github.com/tanmayi-dev/interview-practice-questions) |
-| html, css  | [html-css-course](https://github.com/tanmayi-dev/html-css-course)  |
-| css | [css-learning](https://github.com/tanmayi-dev/css-learning)  |
-| js-questions | [js-mcq-questions](https://github.com/tanmayi-dev/javascript-questions) |
-| javascript | [javascript-fundamentals](https://github.com/tanmayi-dev/javascript-fundamentals) |
-| react | [react-fundamentals](https://github.com/tanmayi-dev/react-fundamentals) |
-| webdev | [fullstack-learning-resources](https://github.com/tanmayi-dev/fullstack-learning-resources) |
-| ui | [ui-design-fundamentals](https://github.com/tanmayi-dev/ui-design-fundamentals) |
-| ui-ux | [ui-ux-complete-course](https://github.com/tanmayi-dev/ui-ux-design-complete-course)  |
-| ui-ux | [ui-ux-learning-resources](https://github.com/tanmayi-dev/ui-ux-design-learning-resources)  |
-| quiz  | [quizzes](https://github.com/tanmayi-dev/quizzes) |
 
 
 ## Other Courses
