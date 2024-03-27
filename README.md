@@ -71,12 +71,14 @@ Here are some ideas to get you started:
 | Logo Design : Mastering the WordMark | [repo](https://github.com/tanmayi-dev/logo-design-mastering-the-wordmark) | |
 | HTML CSS Course | [repo](https://github.com/tanmayi-dev/html-css-course) | |
 | Playwright Automation Course | [repo](https://github.com/tanmayi-dev/playwright-tesing-tool) | |
+| OWASP Academy | [repo](https://github.com/tanmayi-dev/owasp-academy) | |
 
 ## Free Code Camp
 |  Course | Repo  | Certificate |
 |:------|:-----|:------|
 | JavaScript Algorithms and Data Structures | [repo](https://github.com/tanmayi-dev/fcc-javascript-data-structures-and-algorithms)  |  | 
 | Frontend Development Libraries | [repo](https://github.com/tanmayi-dev/fcc-frontend-development-libraries) |  | 
+| Data Visualization | [repo](https://github.com/tanmayi-dev/fcc-data-visualization) | |
 
 
 
