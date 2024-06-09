@@ -20,23 +20,19 @@ Here are some ideas to get you started:
 |  Topic | Repo  |   
 |:------|:-----|
 | interview practice questions | [repo](https://github.com/tanmayi-dev/interview-practice-questions) |
-| css learning | [repo](https://github.com/tanmayi-dev/css-learning)  |
+| interview questions and hiring challenges | [repo](https://github.com/tanmayi-dev/interview-questions-and-hiring-challenges) |
+| company specific interview questions | [repo](https://github.com/tanmayi-dev/company-specific-interview-questions) |
 | frontend system design | [repo](https://github.com/tanmayi-dev/frontend-system-design) |
 | js mcq questions | [repo](https://github.com/tanmayi-dev/javascript-questions) |
-| javascript fundamentals | [repo](https://github.com/tanmayi-dev/javascript-fundamentals) |
-| react fundamentals | [repo](https://github.com/tanmayi-dev/react-fundamentals) |
-| fullstack resources | [repo](https://github.com/tanmayi-dev/fullstack-learning-resources) |
-| ui design fundamentals | [repo](https://github.com/tanmayi-dev/ui-design-fundamentals) |
-| ui-ux course | [repo](https://github.com/tanmayi-dev/ui-ux-design-complete-course)  |
-| ui-ux resources | [repo](https://github.com/tanmayi-dev/ui-ux-design-learning-resources)  |
 | quiz questions | [repo](https://github.com/tanmayi-dev/quizzes) |
+
 
 ## AWS Certifications
 
 |  Topic | Repo  |   Certificate |
 |:------|:-----|:-----|
 | AWS Cloud Practitioner  | [repo](https://github.com/tanmayi-dev/aws-certifications-notes)  | | 
-| AWS Developer Associated | [repo]() | | 
+| AWS Developer Associate | [repo]() | | 
 
 ## Data Structures and Algorithms
 
@@ -51,8 +47,11 @@ Here are some ideas to get you started:
 | python-dsa | [repo](https://github.com/tanmayi-dev/python-dsa.git) | | 
 
 ## Udemy Courses
+
 |  Course | Repo  | Certificate |
 |:------|:-----|:-----|
+| Data Structures and Algorithms using Java | | [repo](https://github.com/tanmayi-dev/data-structures-and-algorithms-using-java) ||
+| Data Structures and Algorithms using C and C++ | | [repo](https://github.com/tanmayi-dev/data-structures-and-algorithms-using-c-and-cpp) ||
 | Web Accessibility WCAG 2.1 | [repo](https://github.com/tanmayi-dev/web-accessibility-wcag-2.1) ||
 | Clean Code | [repo](https://github.com/tanmayi-dev/clean-code) ||
 | Design Patterns in JavaScript | [repo](https://github.com/tanmayi-dev/design-patterns-in-javascript) ||
@@ -61,6 +60,7 @@ Here are some ideas to get you started:
 | Fundamentals of Backend Engineering | [repo](https://github.com/tanmayi-dev/fundamentals-of-backend-engineering)  | |
 | Fundamentals of Database Engineering | [repo](https://github.com/tanmayi-dev/fundamentals-of-database-engineering)  || 
 | Discovering Backend Bottlenecks: Unlocking Peak Performance | [repo](https://github.com/tanmayi-dev/discovering-backend-bottlenecks)  | |
+| Fundamentals of Operating Systems | [repo]() ||
 | Introduction to Cyber Security | [repo](https://github.com/tanmayi-dev/introduction-to-cyber-security) | |
 | OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | |
 | Application Security - The Complete Guide | [repo](https://github.com/tanmayi-dev/application-security-the-complete-guide) | |
@@ -81,15 +81,24 @@ Here are some ideas to get you started:
 | Data Visualization | [repo](https://github.com/tanmayi-dev/fcc-data-visualization) | |
 
 
-
-
 ## Other Courses
 
 |  Course | Repo  |
 |:------|:-----|
 | CSS Classes by Vikram Santhalia | [repo](https://github.com/tanmayi-dev/css-learning)  | 
+| Javascript Fundamentals | [repo](https://github.com/tanmayi-dev/javascript-fundamentals) |
+| React Fundamentals | [repo](https://github.com/tanmayi-dev/react-fundamentals) |
 | Full Stack Cohort | [repo](https://github.com/tanmayi-dev/full-stack-cohort)  | 
 | 100xDevs Cohort 2 Assignments | [repo](https://github.com/tanmayi-dev/100xdevs-cohort-2-assignments)  | 
+
+## Other Repositories
+
+|  Topic | Repo  |   
+|:------|:-----|
+| fullstack resources | [repo](https://github.com/tanmayi-dev/fullstack-learning-resources) |
+| ui design fundamentals | [repo](https://github.com/tanmayi-dev/ui-design-fundamentals) |
+| ui-ux course | [repo](https://github.com/tanmayi-dev/ui-ux-design-complete-course)  |
+| ui-ux resources | [repo](https://github.com/tanmayi-dev/ui-ux-design-learning-resources)  |
 
 <!---
 
