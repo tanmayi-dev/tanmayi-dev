@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 
 |  Course | Repo  | Certificate |
 |:------|:-----|:-----|
-| Data Structures and Algorithms using Java | | [repo](https://github.com/tanmayi-dev/data-structures-and-algorithms-using-java) ||
-| Data Structures and Algorithms using C and C++ | | [repo](https://github.com/tanmayi-dev/data-structures-and-algorithms-using-c-and-cpp) ||
+| Data Structures and Algorithms using Java |[repo](https://github.com/tanmayi-dev/data-structures-and-algorithms-using-java)  |  |
+| Data Structures and Algorithms using C and C++ | [repo](https://github.com/tanmayi-dev/data-structures-and-algorithms-using-c-and-cpp) ||
 | Web Accessibility WCAG 2.1 | [repo](https://github.com/tanmayi-dev/web-accessibility-wcag-2.1) ||
 | Clean Code | [repo](https://github.com/tanmayi-dev/clean-code) ||
 | Design Patterns in JavaScript | [repo](https://github.com/tanmayi-dev/design-patterns-in-javascript) ||
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 | Software Architecture & Design of Modern Large Scale Systems | [repo](https://github.com/tanmayi-dev/software-architecture-and-design-of-modern-large-scale-systems) | |
 | Logo Design : Mastering the WordMark | [repo](https://github.com/tanmayi-dev/logo-design-mastering-the-wordmark) | |
 | HTML CSS Course | [repo](https://github.com/tanmayi-dev/html-css-course) | |
-| Playwright Automation Course | [repo](https://github.com/tanmayi-dev/playwright-tesing-tool) | |
+| Playwright Automation Course | [repo](https://github.com/tanmayi-dev/playwright-tesing-tool) | [link](https://github.com/tanmayi-dev/playwright-tesing-tool/blob/main/certificate/README.md) |
 | OWASP Academy | [repo](https://github.com/tanmayi-dev/owasp-academy) | |
 
 ## Free Code Camp
