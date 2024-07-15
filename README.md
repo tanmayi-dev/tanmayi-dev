@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 | Discovering Backend Bottlenecks: Unlocking Peak Performance | [repo](https://github.com/tanmayi-dev/discovering-backend-bottlenecks)  | |
 | Fundamentals of Operating Systems | [repo]() ||
 | Introduction to Cyber Security | [repo](https://github.com/tanmayi-dev/introduction-to-cyber-security) | |
-| OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | |
+| OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link](https://github.com/tanmayi-dev/owasp-proactive-controls-2016/blob/main/certificate/README.md) |
 | Application Security - The Complete Guide | [repo](https://github.com/tanmayi-dev/application-security-the-complete-guide) | |
 | Jenkins : Beginner to Pro | [repo](https://github.com/tanmayi-dev/jenkins) | |
 | Kubernetes - For the Absolute Beginners | [repo](https://github.com/tanmayi-dev/kubernetes) | |
