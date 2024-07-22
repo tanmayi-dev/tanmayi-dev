@@ -34,6 +34,12 @@ Here are some ideas to get you started:
 | AWS Cloud Practitioner  | [repo](https://github.com/tanmayi-dev/aws-certifications-notes)  | | 
 | AWS Developer Associate | [repo]() | | 
 
+## Azure Certifications
+
+|  Topic | Repo  |   Certificate |
+|:------|:-----|:-----|
+| AZ900  | [repo](https://github.com/tanmayi-dev/azure-certifications-notes)  | | 
+
 ## Data Structures and Algorithms
 
 |  Topic | Repo  |   Certificate |
