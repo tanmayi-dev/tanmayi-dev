@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 | Playwright Automation Course | [repo](https://github.com/tanmayi-dev/playwright-tesing-tool) | [link](https://github.com/tanmayi-dev/playwright-tesing-tool/blob/main/certificate/README.md) |
 | OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link](https://github.com/tanmayi-dev/owasp-proactive-controls-2016/blob/main/certificate/README.md) |
 | OWASP Academy | [repo](https://github.com/tanmayi-dev/owasp-academy) | |
-| Master OWASP Web Application Security | [repo](https://github.com/tanmayi-dev/master-owasp-web-application-security)] | [link]() |
+| Master OWASP Web Application Security | [repo](https://github.com/tanmayi-dev/master-owasp-web-application-security)] | [link](https://github.com/tanmayi-dev/master-owasp-web-application-security/blob/main/certificate/README.md) |
 
 ## Free Code Camp
 |  Course | Repo  | Certificate |
