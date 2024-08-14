@@ -79,6 +79,8 @@ Here are some ideas to get you started:
 | OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link](https://github.com/tanmayi-dev/owasp-proactive-controls-2016/blob/main/certificate/README.md) |
 | OWASP Academy | [repo](https://github.com/tanmayi-dev/owasp-academy) | |
 | Master OWASP Web Application Security | [repo](https://github.com/tanmayi-dev/master-owasp-web-application-security)] | [link](https://github.com/tanmayi-dev/master-owasp-web-application-security/blob/main/certificate/README.md) |
+| Java Basics to Advanced | [repo]() | [link]() |
+| System Design LLD and HLD in Java | [repo](https://github.com/tanmayi-dev/system-design-lld-hld-in-java) | [link]() |
 
 ## Free Code Camp
 |  Course | Repo  | Certificate |
