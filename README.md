@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 | interview practice questions | [repo](https://github.com/tanmayi-dev/interview-practice-questions) |
 | interview questions and hiring challenges | [repo](https://github.com/tanmayi-dev/interview-questions-and-hiring-challenges) |
 | company specific interview questions | [repo](https://github.com/tanmayi-dev/company-specific-interview-questions) |
-| frontend system design | [repo](https://github.com/tanmayi-dev/frontend-system-design) |
 | js mcq questions | [repo](https://github.com/tanmayi-dev/javascript-questions) |
 | quiz questions | [repo](https://github.com/tanmayi-dev/quizzes) |
+| fullstack resources | [repo](https://github.com/tanmayi-dev/fullstack-learning-resources) |
 
 
 ## AWS Certifications
@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 |  Topic | Repo  |   Certificate |
 |:------|:-----|:-----|
 | AWS Cloud Practitioner  | [repo](https://github.com/tanmayi-dev/aws-certifications-notes)  | | 
-| AWS Developer Associate | [repo]() | | 
 
 ## Azure Certifications
 
@@ -40,74 +39,21 @@ Here are some ideas to get you started:
 |:------|:-----|:-----|
 | AZ900  | [repo](https://github.com/tanmayi-dev/azure-certifications-notes)  | | 
 
-## Data Structures and Algorithms
 
-|  Topic | Repo  |   Certificate |
-|:------|:-----|:-----|
-| striver-a2z-sheet  | [repo](https://github.com/tanmayi-dev/striver-a2z-dsa-course-sheet)  | | 
-| O’Reilly-dsa-javascript | [repo](https://github.com/tanmayi-dev/data-structures-and-algorithms-with-javascript) | | 
-| leetcode-75 | [repo](https://github.com/tanmayi-dev/leetcode-75) | | 
-| ds-track-hackerrank | [repo](https://github.com/tanmayi-dev/data-structures-track-hackerrank)  | | 
-| cp-programmers-handbook | [repo](https://github.com/tanmayi-dev/competitive-programmers-handbook) | | 
-| competitive-coding | [repo](https://github.com/tanmayi-dev/competitive-coding) | | 
-| python-dsa | [repo](https://github.com/tanmayi-dev/python-dsa.git) | | 
-
-## Udemy Courses
+## Courses
 
 |  Course | Repo  | Certificate |
 |:------|:-----|:-----|
-| Data Structures and Algorithms using Java |[repo](https://github.com/tanmayi-dev/data-structures-and-algorithms-using-java)  |  |
-| Data Structures and Algorithms using C and C++ | [repo](https://github.com/tanmayi-dev/data-structures-and-algorithms-using-c-and-cpp) ||
-| Web Accessibility WCAG 2.1 | [repo](https://github.com/tanmayi-dev/web-accessibility-wcag-2.1) ||
-| Clean Code | [repo](https://github.com/tanmayi-dev/clean-code) ||
-| Design Patterns in JavaScript | [repo](https://github.com/tanmayi-dev/design-patterns-in-javascript) ||
-| Introduction to NGINX | [repo](https://github.com/tanmayi-dev/introduction-to-ngnix)  | |
-| Fundamentals of Network Engineering | [repo](https://github.com/tanmayi-dev/fundamentals-of-network-engineering)  || 
-| Fundamentals of Backend Engineering | [repo](https://github.com/tanmayi-dev/fundamentals-of-backend-engineering)  | |
-| Fundamentals of Database Engineering | [repo](https://github.com/tanmayi-dev/fundamentals-of-database-engineering)  || 
-| Discovering Backend Bottlenecks: Unlocking Peak Performance | [repo](https://github.com/tanmayi-dev/discovering-backend-bottlenecks)  | |
-| Fundamentals of Operating Systems | [repo]() ||
-| Introduction to Cyber Security | [repo](https://github.com/tanmayi-dev/introduction-to-cyber-security) | |
-| Application Security - The Complete Guide | [repo](https://github.com/tanmayi-dev/application-security-the-complete-guide) | |
-| Jenkins : Beginner to Pro | [repo](https://github.com/tanmayi-dev/jenkins) | |
-| Kubernetes - For the Absolute Beginners | [repo](https://github.com/tanmayi-dev/kubernetes) | |
-| Apache Kafka | [repo](https://github.com/tanmayi-dev/apache-kafka) | |
-| Software Architecture & Design of Modern Large Scale Systems | [repo](https://github.com/tanmayi-dev/software-architecture-and-design-of-modern-large-scale-systems) | |
-| Logo Design : Mastering the WordMark | [repo](https://github.com/tanmayi-dev/logo-design-mastering-the-wordmark) | |
-| HTML CSS Course | [repo](https://github.com/tanmayi-dev/html-css-course) | |
 | Playwright Automation Course | [repo](https://github.com/tanmayi-dev/playwright-tesing-tool) | [link](https://github.com/tanmayi-dev/playwright-tesing-tool/blob/main/certificate/README.md) |
-| OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-proactive-controls-2016) | [link](https://github.com/tanmayi-dev/owasp-proactive-controls-2016/blob/main/certificate/README.md) |
-| OWASP Academy | [repo](https://github.com/tanmayi-dev/owasp-academy) | |
-| Master OWASP Web Application Security | [repo](https://github.com/tanmayi-dev/master-owasp-web-application-security)] | [link](https://github.com/tanmayi-dev/master-owasp-web-application-security/blob/main/certificate/README.md) |
-| Java Basics to Advanced | [repo]() | [link]() |
-| System Design LLD and HLD in Java | [repo](https://github.com/tanmayi-dev/system-design-lld-hld-in-java) | [link]() |
-
-## Free Code Camp
-|  Course | Repo  | Certificate |
-|:------|:-----|:------|
-| JavaScript Algorithms and Data Structures | [repo](https://github.com/tanmayi-dev/fcc-javascript-data-structures-and-algorithms)  |  | 
-| Frontend Development Libraries | [repo](https://github.com/tanmayi-dev/fcc-frontend-development-libraries) |  | 
+| OWASP Proactive Controls | [repo](https://github.com/tanmayi-dev/owasp-security-controls) | [link](https://github.com/tanmayi-dev/owasp-proactive-controls-2016/blob/main/certificate/README.md), [link](https://github.com/tanmayi-dev/master-owasp-web-application-security/blob/main/certificate/README.md) |
+| Python OOPs and System Design| [repo](https://github.com/tanmayi-dev/python-oops-and-system-design) | [link]() |
 | Data Visualization | [repo](https://github.com/tanmayi-dev/fcc-data-visualization) | |
+| CSS Classes by Vikram Santhalia | [repo](https://github.com/tanmayi-dev/css-learning)  | |
+| Full Stack Cohort | [repo](https://github.com/tanmayi-dev/full-stack-cohort)  | |
+| 100xDevs Cohort 2 Assignments | [repo](https://github.com/tanmayi-dev/100xdevs-cohort-2-assignments)  | |
+| UI UX | [repo](https://github.com/tanmayi-dev/ui-ux-design)  | |
 
 
-## Other Courses
-
-|  Course | Repo  |
-|:------|:-----|
-| CSS Classes by Vikram Santhalia | [repo](https://github.com/tanmayi-dev/css-learning)  | 
-| Javascript Fundamentals | [repo](https://github.com/tanmayi-dev/javascript-fundamentals) |
-| React Fundamentals | [repo](https://github.com/tanmayi-dev/react-fundamentals) |
-| Full Stack Cohort | [repo](https://github.com/tanmayi-dev/full-stack-cohort)  | 
-| 100xDevs Cohort 2 Assignments | [repo](https://github.com/tanmayi-dev/100xdevs-cohort-2-assignments)  | 
-
-## Other Repositories
-
-|  Topic | Repo  |   
-|:------|:-----|
-| fullstack resources | [repo](https://github.com/tanmayi-dev/fullstack-learning-resources) |
-| ui design fundamentals | [repo](https://github.com/tanmayi-dev/ui-design-fundamentals) |
-| ui-ux course | [repo](https://github.com/tanmayi-dev/ui-ux-design-complete-course)  |
-| ui-ux resources | [repo](https://github.com/tanmayi-dev/ui-ux-design-learning-resources)  |
 
 <!---
 
