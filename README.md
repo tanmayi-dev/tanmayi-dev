@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 |  Topic | Repo  |   
 |:------|:-----|
-| javascript notes | [repo](https://github.com/tanmayi-dev/javascript-note) |
+| javascript notes | [repo](https://github.com/tanmayi-dev/javascript-notes) |
 | react notes | [repo](https://github.com/tanmayi-dev/react-notes) |
+| nodejs notes | [repo](https://github.com/tanmayi-dev/nodejs-notes) |
 | frontend system design notes | [repo](https://github.com/tanmayi-dev/frontend-system-design-notes) |
 | interview practice questions | [repo](https://github.com/tanmayi-dev/interview-practice-questions) |
 | interview questions and hiring challenges | [repo](https://github.com/tanmayi-dev/interview-questions-and-hiring-challenges) |
