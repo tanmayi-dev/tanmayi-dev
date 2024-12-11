@@ -31,19 +31,6 @@ Here are some ideas to get you started:
 | fullstack resources | [repo](https://github.com/tanmayi-dev/fullstack-learning-resources) |
 
 
-## AWS Certifications
-
-|  Topic | Repo  |   Certificate |
-|:------|:-----|:-----|
-| AWS Cloud Practitioner  | [repo](https://github.com/tanmayi-dev/aws-certifications-notes)  | | 
-
-## Azure Certifications
-
-|  Topic | Repo  |   Certificate |
-|:------|:-----|:-----|
-| AZ900  | [repo](https://github.com/tanmayi-dev/azure-certifications-notes)  | | 
-
-
 ## Courses
 
 |  Course | Repo  | Certificate |
