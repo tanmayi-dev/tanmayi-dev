@@ -19,16 +19,10 @@ Here are some ideas to get you started:
 
 |  Topic | Repo  |   
 |:------|:-----|
-| javascript notes | [repo](https://github.com/tanmayi-dev/javascript-notes) |
-| react notes | [repo](https://github.com/tanmayi-dev/react-notes) |
-| nodejs notes | [repo](https://github.com/tanmayi-dev/nodejs-notes) |
-| frontend system design notes | [repo](https://github.com/tanmayi-dev/frontend-system-design-notes) |
+| digital garden - all notes | [repo](https://github.com/tanmayi-dev/digital-garden) |
 | interview practice questions | [repo](https://github.com/tanmayi-dev/interview-practice-questions) |
-| interview questions and hiring challenges | [repo](https://github.com/tanmayi-dev/interview-questions-and-hiring-challenges) |
 | company specific interview questions | [repo](https://github.com/tanmayi-dev/company-specific-interview-questions) |
-| js mcq questions | [repo](https://github.com/tanmayi-dev/javascript-questions) |
 | quiz questions | [repo](https://github.com/tanmayi-dev/quizzes) |
-| fullstack resources | [repo](https://github.com/tanmayi-dev/fullstack-learning-resources) |
 
 
 ## Courses
@@ -57,5 +51,6 @@ Here are some ideas to get you started:
 | project-ideas | [ideas-and-plans](https://github.com/tanmayi-dev/ideas-plans-todos-references) |
 | s1-learning | [sentinelone-learning](https://github.com/tanmayi-dev/sentinelone-learning)  |
 | react | [namaste-react-cloned](https://github.com/tanmayi-dev/namaste-react-course) |
+| interview questions and hiring challenges | [repo](https://github.com/tanmayi-dev/interview-questions-and-hiring-challenges) |
 
 -->
