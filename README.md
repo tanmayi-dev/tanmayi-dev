@@ -38,6 +38,11 @@ Here are some ideas to get you started:
 | UI UX | [repo](https://github.com/tanmayi-dev/ui-ux-design)  | |
 
 
+## FreeCodeCamp Courses
+
+| Course | Repo |
+| ------ | ---- |
+| Backend Development and APIs | [repo](https://github.com/tanmayi-dev/fcc-backend-development-and-apis) |
 
 <!---
 
