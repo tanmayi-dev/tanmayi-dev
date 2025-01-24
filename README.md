@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 | interview questions handbook | [repo](https://github.com/tanmayi-dev/interview-questions-handbook) |
 | company specific interview questions | [repo](https://github.com/tanmayi-dev/company-specific-interview-questions) |
 | quiz questions | [repo](https://github.com/tanmayi-dev/quizzes) |
+| system design | [repo](https://github.com/tanmayi-dev/system-design) |
 
 
 ## Courses
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 | Playwright Automation Course | [repo](https://github.com/tanmayi-dev/playwright-tesing-tool) | [link](https://github.com/tanmayi-dev/playwright-tesing-tool/blob/main/certificate/README.md) |
 | Full Stack Cohort | [repo](https://github.com/tanmayi-dev/full-stack-cohort)  | |
 | 100xDevs Cohort 2 Assignments | [repo](https://github.com/tanmayi-dev/100xdevs-cohort-2-assignments)  | |
+| Hussein Nasser Courses | [repo](https://github.com/tanmayi-dev/hussein-nasser-courses)  | |
 
 
 ## FreeCodeCamp Courses
