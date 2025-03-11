@@ -1,19 +1,6 @@
 ### Hi there 👋
 
-<!--
-**tanmayi-dev/tanmayi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository serves as a collection of everything I learn, including interview questions, system design concepts, and notes from the courses I take
 
 ## Repositories
 
@@ -42,18 +29,3 @@ Here are some ideas to get you started:
 | ------ | ---- |
 | Backend Development and APIs | [repo](https://github.com/tanmayi-dev/fcc-backend-development-and-apis) |
 
-<!---
-
-## Private Repos
-|  Topic | Repo  |   
-|:------:|:-----:|
-| links  | [links-dump](https://github.com/tanmayi-dev/links-dump) |
-| my-links | [my-links](https://github.com/tanmayi-dev/my-links) |
-| resources | [personal-resources](https://github.com/tanmayi-dev/personal-resources) |
-| project-ideas | [ideas-and-plans](https://github.com/tanmayi-dev/ideas-plans-todos-references) |
-| s1-learning | [sentinelone-learning](https://github.com/tanmayi-dev/sentinelone-learning)  |
-| react | [namaste-react-cloned](https://github.com/tanmayi-dev/namaste-react-course) |
-| interview questions and hiring challenges | [repo](https://github.com/tanmayi-dev/interview-questions-and-hiring-challenges) |
-| best remote companies for us | [repo](https://github.com/tanmayi-dev/best-remote-companies-for-us) |
-
--->
