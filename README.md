@@ -54,5 +54,6 @@ Here are some ideas to get you started:
 | s1-learning | [sentinelone-learning](https://github.com/tanmayi-dev/sentinelone-learning)  |
 | react | [namaste-react-cloned](https://github.com/tanmayi-dev/namaste-react-course) |
 | interview questions and hiring challenges | [repo](https://github.com/tanmayi-dev/interview-questions-and-hiring-challenges) |
+| best remote companies for us | [repo](https://github.com/tanmayi-dev/best-remote-companies-for-us) |
 
 -->
