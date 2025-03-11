@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This repository serves as a collection of everything I learn, including interview questions, system design concepts, and notes from the courses I take
-
+<!--
 ## Repositories
 
 |  Topic | Repo  |   
@@ -29,3 +29,4 @@ This repository serves as a collection of everything I learn, including intervie
 | ------ | ---- |
 | Backend Development and APIs | [repo](https://github.com/tanmayi-dev/fcc-backend-development-and-apis) |
 
+-->
